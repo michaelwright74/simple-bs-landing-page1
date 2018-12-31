@@ -1,0 +1,60 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-image: url(https://source.unsplash.com/mpSMThAU4OY);
+  background-size: cover;
+  background-position: center;
+  font-family: 'Fredoka One', cursive;
+  color: 	#dbc1ac;
+}
+
+h1 {
+  /* font-weight: 700; */
+  font-size: 5em;
+}
+
+h3 {
+  /* font-weight: 700; */
+  font-size: 2em;
+}
+
+.navbar {
+  background-color: #634832
+}
+
+.navbar-brand {
+  font-family: 'Fredoka One', cursive;
+}
+
+.navbar-dark .navbar-brand {
+  color: #dbc1ac;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #dbc1ac;
+}
+
+#content {
+  text-align: center;
+  padding-top: 25%;
+  width: 50%;
+  margin: 0 auto;
+  text-shadow: 0 4px 3px rgba(0, 0, 0, 0.4),
+               0 8px 13px rgba(0, 0, 0, 0.1),
+               0 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  background-color: #634832;
+  border-color: #634832;
+  color: #dbc1ac;
+}
+
+.btn-primary:hover {
+  background-color: #38220f;
+  border-color: #38220f;
+  color: #dbc1ac;
+}
+
